@@ -1,4 +1,4 @@
-package org.projeto.domain;
+package org.projeto.adapter.javafx;
 
 /**
  * Hello world!

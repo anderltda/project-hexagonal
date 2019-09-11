@@ -21,6 +21,7 @@
 		<module>projeto-adapter-hsqldb</module>
   
 	<module>projeto-adapter-dynamodb</module>
+    <module>projeto-adapter-javafx</module>
   </modules>
 
 	<properties>

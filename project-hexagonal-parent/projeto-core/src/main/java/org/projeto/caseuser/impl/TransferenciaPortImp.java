@@ -11,8 +11,11 @@ import java.math.BigDecimal;
 import static org.projeto.domain.model.Erro.*;
 import static java.util.Objects.isNull;
 
-// Responsável por implementar a porta de operações para caso de uso de transferencia.
-// Sera gerenciado pelo IoC
+/**
+ *  Responsável por implementar a porta de operações para caso de uso de transferencia.
+ *  Sera gerenciado pelo IoC
+ */
+
 @Named
 public class TransferenciaPortImp implements TransferenciaPort {
 
